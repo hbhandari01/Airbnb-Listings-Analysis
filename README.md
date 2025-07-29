@@ -13,7 +13,7 @@
 ##### Due to file size limitations on GitHub, the full Airbnb listings datasets for France and Germany are hosted externally.
 
 📁 Download Link (Google Drive):
-🔗 Click here to access the datasets
+🔗 https://drive.google.com/drive/folders/18i5lVKD8Qj-IuDlC-C-wgvBGCo9zu6SR?usp=sharing
 
 After downloading, please extract the files and place them inside a local /data directory before running the Jupyter notebooks or scripts.
 # Data Preprocessing
