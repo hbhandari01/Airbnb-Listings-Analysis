@@ -9,6 +9,13 @@
 #### Mode imputation for categorical features
 #### Dropping rows/columns with excessive missingness
 #### After preprocessing, the datasets were concatenated into a single combined dataset for unified analysis.
+#### Dataset Access
+##### Due to file size limitations on GitHub, the full Airbnb listings datasets for France and Germany are hosted externally.
+
+📁 Download Link (Google Drive):
+🔗 Click here to access the datasets
+
+After downloading, please extract the files and place them inside a local /data directory before running the Jupyter notebooks or scripts.
 # Data Preprocessing
 #### Performed null value treatment using appropriate imputation strategies.
 #### Merged both country datasets based on common schema.
