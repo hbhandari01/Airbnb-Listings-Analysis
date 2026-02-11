@@ -2,12 +2,12 @@
 ####  Airbnb encourages users to share their experiences about their stay in the accommodations - that may include about the host, food, culture, behavior, nature etc. The objective of the project is to analyze Airbnb data to identify key factors which may help other travelers before making their final choice.
 #### This involves data preprocessing, conducting exploratory data analysis, performing descriptive analysis with various data analysis and visualization techniques, predictions using statistical models, and machine learning models. Multiple tools such as Python, MySQL, Tableau, are used in the project.
 # Data Description
-#### Two separate datasets: one for France and one for Germany listings.
+#### Two separate datasets: one for France and the other one for Germany listings.
 #### Both datasets had the same structure (same number of columns and matching column names), allowing seamless merging after cleaning.
 #### Missing values were handled using multiple imputation techniques such as:
 #### Mean/Median imputation for numerical features
 #### Mode imputation for categorical features
-#### Dropping rows/columns with excessive missingness
+#### Dropping rows/columns with excessive missing values
 #### After preprocessing, the datasets were concatenated into a single combined dataset for unified analysis.
 #### Dataset Access
 ##### Due to file size limitations on GitHub, the full Airbnb listings datasets for France and Germany are hosted externally.
