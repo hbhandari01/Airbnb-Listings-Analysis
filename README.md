@@ -1,5 +1,5 @@
 # Airbnb-Listings-Analysis
-####  Airbnb encourages users to share their experiences about their stay in the accommodations - that may include about the host, food, culture, behavior, nature etc. The objective of the project is to analyze Airbnb data to identify key factors which may help other travelers before making their final choice.
+####  Airbnb encourages users to share their experiences about their stay in the accommodations - that may include about the host, food, culture, behavior, nature etc. The objective of the project is to analyze Airbnb data to identify the key factors which may help other travelers before making their final choice.
 #### This involves data preprocessing, conducting exploratory data analysis, performing descriptive analysis with various data analysis and visualization techniques, predictions using statistical models, and machine learning models. Multiple tools such as Python, MySQL, Tableau, are used in the project.
 # Data Description
 #### Two separate datasets: one for France and the other one for Germany listings.
