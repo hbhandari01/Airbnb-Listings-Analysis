@@ -17,7 +17,7 @@
 
 After downloading, please extract the files and place them inside a local /data directory before running the Jupyter notebooks or scripts.
 # Data Preprocessing
-#### Performed null value treatment using appropriate imputation strategies.
+#### Performed null values treatment using appropriate imputation strategies.
 #### Merged both country datasets based on common schema.
 #### Handled outliers using statistical techniques (e.g., IQR method) prior to model building.
 #### Encoded categorical variables and scaled numerical features where required.
