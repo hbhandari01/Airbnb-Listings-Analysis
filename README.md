@@ -30,7 +30,7 @@ After downloading, please extract the files and place them inside a local /data 
 #### Review scores ratings trends
 #### Average price per night by country and city
 #### Tableau visualizations helped uncover seasonality, pricing fluctuations, and regional trends.
-# Machine Learning Models Applied
+# Machine Learning Models Applied:
 #### Linear Regression – for predicting listing prices based on numerical and categorical attributes.
 #### Logistic Regression – for classifying listings as high-rated or low-rated based on ratings and other host attributes.
 #### K-Means Clustering – for unsupervised segmentation of listings based on features like amenities and room-type.
